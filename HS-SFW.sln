@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS-SFW", "HS-SFW.csproj", "{185BDBF8-B54F-4A4C-8703-CEAD2B6A53A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Il2cpp|Any CPU = Il2cpp|Any CPU
+		Mono|Any CPU = Mono|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185BDBF8-B54F-4A4C-8703-CEAD2B6A53A0}.Il2cpp|Any CPU.ActiveCfg = Il2cpp|Any CPU
+		{185BDBF8-B54F-4A4C-8703-CEAD2B6A53A0}.Il2cpp|Any CPU.Build.0 = Il2cpp|Any CPU
+		{185BDBF8-B54F-4A4C-8703-CEAD2B6A53A0}.Mono|Any CPU.ActiveCfg = Mono|Any CPU
+		{185BDBF8-B54F-4A4C-8703-CEAD2B6A53A0}.Mono|Any CPU.Build.0 = Mono|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C505CC4-B231-4203-915B-6556E36FABC2}
+	EndGlobalSection
+EndGlobal
