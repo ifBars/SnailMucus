@@ -2,7 +2,7 @@
 
 A mod for Schedule I that retextures and renames the "Horse Semen" item to be more appropriate while maintaining a similar concept.
 
-![preview.png](preview.png)
+![preview.png](https://github.com/ifBars/SnailMucus/raw/master/preview.png)
 
 ## Overview
 

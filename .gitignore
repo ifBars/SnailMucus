@@ -11,6 +11,8 @@
 *.publishsettings
 orleans.codegen.cs
 
+ScheduleOne/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
